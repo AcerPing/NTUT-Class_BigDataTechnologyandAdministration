@@ -1,0 +1,14 @@
+Apache Kafka 介紹
+https://medium.com/@chihsuan/introduction-to-apache-kafka-1cae693aa85e
+
+A Brief History of Scaling LinkedIn
+https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin 
+
+Kafka at LinkedIn: Current and Future
+https://engineering.linkedin.com/kafka/kafka-linkedin-current-and-future
+
+Kafka 在LinkedIn 公司的應用場景、現狀與未來
+https://www.infoq.cn/article/2015/02/kafka-linkedin-application
+
+Publishing with Apache Kafka at The New York Times
+https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077
